@@ -1,6 +1,6 @@
 # school
 School projects developed @ FIT BUT
-In this repo you can find several school projects. Some of them are result of team effort, some of them I made myself.
+In this repo you can find my school projects.
 Here follows summary of used technologies (mentioned the most important one):
 07_xvysta02_xvalec00        - (C++),
 flp-fun-xvysta02 (3)        - (haskell),
