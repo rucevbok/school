@@ -4,7 +4,7 @@ In this repo you can find several school projects. Some of them are result of te
 Here follows summary of used technologies (mentioned the most important one):
 07_xvysta02_xvalec00        - (C++)
 flp-fun-xvysta02 (3)        - (haskell)
-flp-log-xvysta02 (1)        - (prolog)
+flp-log-xvysta02 (1)        - (prolog)\n
 prl_*                       - (c++)
 proj1_ios_11b               - (c)
 wap_proj_29b                - (web technologies)
